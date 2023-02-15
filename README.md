@@ -1,0 +1,6 @@
+# Iphone 7 Plus (414x736)
+![IP7PLUS](https://github.com/hypepoly-internship-2023/duy-phuc-assessment-6/blob/develop/Demo/Iphone%207%20Plus.PNG)
+# Iphone 12 (390x884)
+![IP12](https://github.com/hypepoly-internship-2023/duy-phuc-assessment-6/blob/develop/Demo/Iphone%2012.PNG)
+# Pixel 3 (393x786)
+![PX3](https://github.com/hypepoly-internship-2023/duy-phuc-assessment-6/blob/develop/Demo/Pixel%203.PNG)
